@@ -1,0 +1,11 @@
+id, firstName, lastName,status
+1, Kishlay, Kishan,NotHired
+2, Krishna, Kumar,Hired
+3, Akshay, Kumar,Hired
+4, Shreya, Jha,NotHired
+5,Raman,Singh,Hired
+6,Raj,Aryan,NotHired
+7,Anubhav,Prasoon,NotHired
+8,Abhishek,Abhinav,Hired
+9,Amit,Kumar,Hired
+10, Vikram,Kumar,NotHired
